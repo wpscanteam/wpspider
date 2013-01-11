@@ -1,6 +1,8 @@
 # WPSpider
 WPSpider is a barebone spider to crawl the public svn repositories of Wordpress.org
 
+![WPSpider](http://i303.photobucket.com/albums/nn138/dal47492/spiderman-familyguy.jpg)
+
 ## Usage
 
     $ scrapy crawl wpspider -a what=filename.ext -a where=[plugins|themes]
